@@ -12,19 +12,19 @@ Este repositorio documenta mi proceso de aprendizaje estructurado en Java, sigui
 - *Metodos*
 - *arrays*
 
-### **Programacion orientada a objetos**
+### **02-Programacion orientada a objetos**
 - *Clases y objetos*
 - *Encapsulamientos*
 - *Herencia*
 - *Polimorfismo*
 
-### **Java Avanzado**
+### **03-Java Avanzado**
 - *Colecciones*
 - *Streams*
 - *Manejo de archivos*
 - *Excepciones*
 
-### **Backend con Springg Boot**
+### **04-Backend con Springg Boot**
 - *API REST*
 - *Base de datos*
 - *Seguridad*
