@@ -63,6 +63,27 @@ Crea un programa que:
 
 Si el primer número es mayor que el segundo.
 ---
+
+### 🧪 Ejercicio 2 – Comparación de Números
+---
+### 🎯 Objetivo
+Practicar operadores relacionales.
+## 📌 Instrucciones
+
+Crea un programa que:
+
+ 1. Pida dos números.
+
+ 2. Muestre en pantalla:
+
+       - Si son iguales
+
+       - Si el primero es mayor
+
+       - Si el segundo es mayor
+
+      - Si son diferentes
+---
 ### 🚀 Mini Proyecto – Calculadora Interactiva
 Desarrolla una pequeña calculadora que:
 
